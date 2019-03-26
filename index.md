@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Yunmo Zhang
-email: yunmozhang@cau.edu.cn
+emailto: yunmozhang@cau.edu.cn
 ---
 # Yunmo __Zhang__
 
