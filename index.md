@@ -21,7 +21,7 @@ Supported arguments:
 Beijing
 ```
 - Bachelor in Computer Science 
-- Major GPA: __3.88__, Cumulative GPA: __3.88__
+- Major GPA: __3.95/4.0__, Cumulative GPA: __3.88/4.0__
 - Minor major: Applied mathematics 
 
 
