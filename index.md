@@ -1,8 +1,8 @@
 ---
 layout: cv
 title: Yunmo Zhang
-email: yunmozhang@cau.edu.cn
 phone: (+86) 15611713823
+email: yunmozhang@cau.edu.cn
 ---
 # Yunmo __Zhang__
 
@@ -26,9 +26,8 @@ Supported arguments:
 ```
 Beijing
 ```
-- Bachelor in Computer Science 
+- B.S. in Computer Science and Technology and B.S. in Mathematics and Applied Mathematics(Dual Degree)
 - Major GPA: __3.95/4.0__, Overall GPA: __3.88/4.0__ , Rank: __1/55__ 
-- Minor major: Applied mathematics 
 
 <br>
 ## Research Interests
@@ -44,7 +43,7 @@ __Penrose__ is a system that automatically visualizes mathematics using two doma
 
 ### __Chinese Academy of Sciences, Computer Network Information Center__  `2018.6 - Present`
 _Software Engineering Intern_<br>
-Developed a series of 3D visualization application based on geoscience big data.
+Worked in Advanced Interactive Technology and Application Laboratory. Developed a series of 3D visualization application based on geoscience big data.
 
 ### __Peking university, Summer School__ `2018.7`
 ACM/ICPC Training
