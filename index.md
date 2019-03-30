@@ -24,10 +24,11 @@ Supported arguments:
 
 ### __China Agricultural University__ `2016.9 -Present`
 ```
-Beijing
+Beijing, China
 ```
 - B.S. in Computer Science and Technology and B.S. in Mathematics and Applied Mathematics(Dual Degree)
-- Major GPA: __3.95/4.0__, Overall GPA: __3.88/4.0__ , Rank: __1/55__ 
+- Major GPA: __3.95/4.0__, Overall GPA: __3.88/4.0__, Rank: __1/55__ 
+- Relevant Coursework: Data Structure, Algorithms Design and Analysis, Computing Method, Advanced Algebra, Probability Theory & Mathematical Statistic, Method of Optimization, Computer Networks, Computer Organization & Architecture, Artificial Intelligence, Operating System, Virtual Reality Technology
 
 <br>
 ## Research Interests
@@ -54,7 +55,7 @@ ACM/ICPC Training
 
 First scholarship of academic records _(top 5%)_ `2017,2018` <br>
 Excellent student scholarship _(top 2%)_ `2017,2018` <br>
-The national Lan Qiao Cup programming contest Second Prize `2018,2019` <br>
+The national Lan Qiao Cup programming contest _(Second Prize)_ `2018,2019` <br>
 Beijing Merit Student `2016` <br>
 
 
