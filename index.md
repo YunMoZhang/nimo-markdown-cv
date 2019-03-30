@@ -44,7 +44,7 @@ __Penrose__ is a system that automatically visualizes mathematics using two doma
 
 ### __Chinese Academy of Sciences, Computer Network Information Center__  `2018.6 - Present`
 _Software Engineering Intern_<br>
-Worked in Advanced Interactive Technology and Application Laboratory. Developed a series of 3D visualization application based on geoscience big data.
+Worked in [Advanced Interactive Technology and Application Laboratory](http://english.cnic.cas.cn/RS/departments/201611/t20161111_170349.html). Developed a series of 3D visualization application based on geoscience big data.
 
 ### __Peking university, Summer School__ `2018.7`
 ACM/ICPC Training
