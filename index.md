@@ -21,7 +21,7 @@ Supported arguments:
 Beijing
 ```
 - Bachelor in Computer Science 
-- Major GPA: __3.95/4.0__, Cumulative GPA: __3.88/4.0__
+- Major GPA: __3.95/4.0__, Overall GPA: __3.88/4.0__ , Rank: __1/55__ 
 - Minor major: Applied mathematics 
 
 
@@ -56,12 +56,10 @@ Worked on server-side web applications and server deployment tools.
 
 ## Honors & Awards
 
-First scholarship of academic records `Beijing, 2018` <br>
-Excellent student scholarship `Beijing, 2018` <br>
-The Ninth National Professional Software Engineering "Lan Qiao Cup" Design Contest Beijing Preliminary Round Second Prize `Beijing, 2018` <br>
-First scholarship of academic records `Beijing, 2017` <br>
-Excellent student scholarship `Beijing, 2017` <br>
-Beijing Merit Student `Beijing, 2016` <br>
+First scholarship of academic records _(top 5%)_ `2017,2018` <br>
+Excellent student scholarship _(top 2%)_ `2017,2018` <br>
+The national Lan Qiao Cup programming contest Second Prize `2018,2019` <br>
+Beijing Merit Student `2016` <br>
 
 <!-- ### Footer
 
