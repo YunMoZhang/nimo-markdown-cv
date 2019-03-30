@@ -2,6 +2,7 @@
 layout: cv
 title: Yunmo Zhang
 email: yunmozhang@cau.edu.cn
+phone: (+86) 15611713823
 ---
 # Yunmo __Zhang__
 
@@ -17,7 +18,7 @@ Supported arguments:
 <center>College of Information and Electrical Engineering
 <br>China Agricultural University
 <br>No. 17 Tsing Hua East Road, HaiDian District
-<br>Beijing, P. R. China</center>
+<br>Beijing, China 100083</center>
 <br>
 ## Education
 
@@ -43,7 +44,7 @@ __Penrose__ is a system that automatically visualizes mathematics using two doma
 
 ### __Chinese Academy of Sciences, Computer Network Information Center__  `2018.6 - Present`
 _Software Engineering Intern_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+Developed a series of 3D visualization application based on geoscience big data.
 
 ### __Peking university, Summer School__ `2018.7`
 ACM/ICPC Training
@@ -60,7 +61,7 @@ Beijing Merit Student `2016` <br>
 
 <br>
 ## Technical Competencies
-- __Languages:__ C,C++,Python,Javascript
+- __Languages:__ C,C++,Python,Javascript,Matlab
 - __NLP tools:__ Pytorch
 
 
