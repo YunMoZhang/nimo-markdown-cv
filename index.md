@@ -45,7 +45,7 @@ __Penrose__ is a system that automatically visualizes mathematics using two doma
 _Software Engineering Intern_<br>
 Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
-### __Peking university, Summer School __ `2018.7`
+### __Peking university, Summer School__ `2018.7`
 ACM/ICPC Training
 
 
