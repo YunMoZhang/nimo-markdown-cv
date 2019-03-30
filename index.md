@@ -4,6 +4,10 @@ title: Yunmo Zhang
 email: yunmozhang@cau.edu.cn
 ---
 # Yunmo __Zhang__
+<center>College of Information and Electrical Engineering</center>
+China Agricultural University
+No. 17 Tsing Hua East Road,HaiDian District
+Beijing, P. R. China
 
 <!--
 include contact information from the front matter
@@ -23,6 +27,11 @@ Beijing
 - Bachelor in Computer Science 
 - Major GPA: __3.95/4.0__, Overall GPA: __3.88/4.0__ , Rank: __1/55__ 
 - Minor major: Applied mathematics 
+
+<br>
+## Research Interests
+
+
 
 <br>
 ## Experience
