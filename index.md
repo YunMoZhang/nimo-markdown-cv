@@ -16,7 +16,7 @@ Supported arguments:
 {% include cv-contact.html %}
 <center>College of Information and Electrical Engineering
 <br>China Agricultural University
-<br>No. 17 Tsing Hua East Road,HaiDian District
+<br>No. 17 Tsing Hua East Road, HaiDian District
 <br>Beijing, P. R. China</center>
 <br>
 ## Education
@@ -45,9 +45,8 @@ __Penrose__ is a system that automatically visualizes mathematics using two doma
 _Software Engineering Intern_<br>
 Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+### __Peking university, Summer School __ `2018.7`
+ACM/ICPC Training
 
 
 <br>
