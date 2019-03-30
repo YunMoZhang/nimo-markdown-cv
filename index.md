@@ -15,7 +15,8 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
-<center>College of Information and Electrical Engineering
+<center>Department of Computer science and Technology 
+<br>College of Information and Electrical Engineering
 <br>China Agricultural University
 <br>No. 17 Tsing Hua East Road, HaiDian District
 <br>Beijing, China 100083</center>
