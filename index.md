@@ -14,8 +14,8 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
-<center>College of Information and Electrical Engineering
-China Agricultural University
+<center>College of Information and Electrical Engineering</center>
+<center>China Agricultural University
 No. 17 Tsing Hua East Road,HaiDian District
 Beijing, P. R. China</center>
 <br>
