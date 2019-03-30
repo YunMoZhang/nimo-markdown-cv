@@ -13,7 +13,7 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
-
+<br>
 ## Education
 
 ### __China Agricultural University__ `2016.9 -Present`
@@ -24,20 +24,7 @@ Beijing
 - Major GPA: __3.95/4.0__, Overall GPA: __3.88/4.0__ , Rank: __1/55__ 
 - Minor major: Applied mathematics 
 
-
-## Publications
-
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
-
+<br>
 ## Experience
 
 ### __China Agricultural University, Research Experiences for Undergraduate__  `2018.9 - Present`
@@ -53,13 +40,20 @@ _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
 
-
+<br>
 ## Honors & Awards
 
 First scholarship of academic records _(top 5%)_ `2017,2018` <br>
 Excellent student scholarship _(top 2%)_ `2017,2018` <br>
 The national Lan Qiao Cup programming contest Second Prize `2018,2019` <br>
 Beijing Merit Student `2016` <br>
+
+
+<br>
+## Technical Competencies
+- __Languages:__ C,C++,Python,Javascript
+- __NLP tools:__ Pytorch
+
 
 <!-- ### Footer
 
