@@ -28,7 +28,7 @@ Beijing, China
 ```
 - B.S. in Computer Science and Technology and B.S. in Mathematics and Applied Mathematics(Dual Degree)
 - Major GPA: __3.95/4.0__, Overall GPA: __3.88/4.0__, Rank: __1/55__ 
-- Relevant Coursework: Data Structure, Algorithms Design and Analysis, Computing Method, Advanced Algebra, Probability Theory & Mathematical Statistic, Method of Optimization, Computer Networks, Computer Organization & Architecture, Artificial Intelligence, Operating System, Virtual Reality Technology
+- Relevant Coursework: Data Structure, Algorithms Design and Analysis, Computing Method, Advanced Algebra, Probability Theory & Mathematical Statistic, Method of Optimization, Computer Networks, Computer Organization & Architecture, Artificial Intelligence, Operating System, Virtual Reality Technology, Data Mining
 
 <br>
 ## Research Interests
