@@ -14,10 +14,10 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
-<center>College of Information and Electrical Engineering</center>
-<br><center>China Agricultural University</center>
-<br><center>No. 17 Tsing Hua East Road,HaiDian District</center>
-<br><center>Beijing, P. R. China</center>
+<center>College of Information and Electrical Engineering
+<br>China Agricultural University
+<br>No. 17 Tsing Hua East Road,HaiDian District
+<br>Beijing, P. R. China</center>
 <br>
 ## Education
 
