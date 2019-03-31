@@ -15,7 +15,7 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
-<center>Department of Computer science and Technology 
+<center>Department of Computer Science and Technology 
 <br>College of Information and Electrical Engineering
 <br>China Agricultural University
 <br>No. 17 Tsing Hua East Road, HaiDian District
@@ -30,10 +30,6 @@ Beijing, China
 - B.S. in Computer Science and Technology and B.S. in Mathematics and Applied Mathematics(Dual Degree)
 - Major GPA: __3.95/4.0__, Overall GPA: __3.88/4.0__, Rank: __1/55__ 
 - Relevant Coursework: Data Structure, Algorithms Design and Analysis, Computing Method, Advanced Algebra, Probability Theory & Mathematical Statistic, Method of Optimization, Computer Networks, Computer Organization & Architecture, Artificial Intelligence, Operating System, Virtual Reality Technology, Data Mining
-
-<br>
-## Research Interests
-
 
 
 <br>
