@@ -60,8 +60,9 @@ Beijing Merit Student `2016` <br>
 
 <br>
 ## Technical Competencies
-- __Languages:__ C,C++,Python,Javascript,Matlab
-- __NLP tools:__ Pytorch
+- __Languages:__ Python, C/C++, HTML/Javascript, Matlab
+- __Library & Package:__ Scikit-learn, Numpy, Pytorch
+- __Databases:__ MySQL
 
 
 <!-- ### Footer
