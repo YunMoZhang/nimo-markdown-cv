@@ -39,7 +39,7 @@ Beijing, China
 _Research Assistant_<br>
 Worked with [Prof.Ying Chen](http://faculty.cau.edu.cn/xxdqxy/cy/list.htm).
 <br>I adopted many data mining technologies, i.e. network models and different methods of selecting features to explore the relationship between food safety incidents and other factors, i.e. economy or industrial output value etc. `2018.9 - 2019.1`
-<br>I am implementing some tranfer learning models in nlp to optimize the preformence in specific perdiction tasks  `2019.2 - Present`
+<br>I am implementing some tranfer learning models in nlp to optimize the preformence in specific perdiction tasks.  `2019.2 - Present`
 
 ### __Chinese Academy of Sciences, Computer Network Information Center__  `2018.6 - Present`
 _Software Engineering Intern_<br>
